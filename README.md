@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jyoti Soni
-- 👀 I’m interested in codings 
-- 🌱 I’m currently learning Python
+- 👀 I love to code, sing and dance 
+- 🌱 I’m currently learning JAVA
 - 📫 Find me......joecstacysoni@gmail.com
 
 <!---
